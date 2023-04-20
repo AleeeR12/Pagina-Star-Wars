@@ -1,0 +1,22 @@
+*{text-align: center;
+color: white;
+}
+.Imperio{
+    background-color: red;
+}
+.Rebeldes{
+    background-color: blue;
+}
+#darth_vader{
+    font-size: 25px;
+}
+#luke_skywalker{
+    font-style: italic; color:blanchedalmond;font-size: 25px;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1370110270/es/vector/cielo-estrellado-nocturno-fondo-espacial-oscuro-con-estrellas.jpg?s=612x612&w=0&k=20&c=MmTdL6oocjxHbDBYPilefJ67RkX1vRryvF4xsOp7Sm0=);
+}
+hr{
+    background-color: black;
+}
+h1{text-decoration: underline;}
